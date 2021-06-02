@@ -1,0 +1,37 @@
+{
+    "object": "<classes.human object at 0x7ff1a0e1e1f0>",
+    "type": "classes.human",
+    "class_attr": {
+        "_age": 42,
+        "family": {
+            "object": "<classes.family object at 0x7ff1a0e06f10>",
+            "type": "classes.family",
+            "class_attr": {
+                "add_child": {
+                    "object": "<bound method family.add_child of <classes.family object at 0x7ff1a0e06f10>>",
+                    "name": "add_child",
+                    "type": "method",
+                    "func_param": {
+                        "args": [
+                            "self",
+                            "child"
+                        ],
+                        "varargs": null,
+                        "varkw": null,
+                        "defaults": null,
+                        "kwonlyargs": [],
+                        "kwonlydefaults": null,
+                        "annotations": {}
+                    },
+                    "object in bytes": "fCQCt000000001t2x4_<Y;<XEbCiq+XJvF@baZl*la!1HV{Bn_b7gasj0R?5ZE0+Il#`Sxfs}oeD2xVeZ**v7a+Hh&OmA{wl#B*uVRUF^a+Hh%L}6}}j0t0CX>4S2Wo~nnU6gfVj0s_6WM5-wX>4SahLlp2E&"
+                },
+                "childrens": [],
+                "father": "Dan",
+                "mother": "Lora"
+            },
+            "object in bytes": "fCQCG000000001t2V-nub8}^Ll#B*uVQpz_d6bisDS?!Ilqie_ZEtjFWpb2^1Wa#oVU&ypW?^(_Wpb2^14LnNl#B^uXlZO@a%FCFlwFi{VlD"
+        },
+        "name": "Lora"
+    },
+    "object in bytes": "fCQCu000000001t2V-nub8}^Ll#B&vb!}m8l#`Sxfs}oeD2xPOVP|EOODc>6ZeeX@l#B#SZ*pOjj0R?5ZE0+IlxP5G2$Pg4fs}oeD2xVeZ**v7a+GKXj0R?5bZBLAl#ByJVQ!R+31et!Y-Dm}ZgZ4flyzctVlD"
+}

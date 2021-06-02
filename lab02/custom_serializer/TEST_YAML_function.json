@@ -1,0 +1,14 @@
+func_param:
+  annotations: {}
+  args:
+  - a
+  - b
+  defaults: null
+  kwonlyargs: []
+  kwonlydefaults: null
+  varargs: null
+  varkw: null
+instanse: <function sum at 0x7ff6f81ec670>
+name: sum
+object in bytes: fCQC<0RR910001elqie{LvLhdRC#b^lzo&aj0j<JXJc=5ZgiAO0*nuEZ*y;MY<XdFXJc=5ZgiAO0E`Z6cW-WNd0}#AV{dhCbd*Z~j0bLPZ)0I>bCgR0j0tmeVPk7^X?kUpO9G4qW^7?+bCgR%j09tEWMz~?2z&s10T%#M0F;adV{dMAbaRwWg_Mj1ZeeX@bCfBJ2zFs|ZeeX@bCiq$VU&ykVw8rIj0k3FY-Mg?ZDo{<IxlE%ZDlWPWo}_FaCvlSZ*Eg%Z8S__VlgjlVPY^cFJpCcbZ>26b7gXAVQgu7WpXccWpi|ME^v92j0A3BZDo{<19Nq4l#B~zX>xOPY-w&~Zf}%J42%YBZf|s9Vw6Jy00ESY2xf9+Wp-h5bCfBJ2xDbzY<6LCbCfA{j0{F~Zew(5Z*Ek1aAlNzlqie`XKZg`VQh1heUxYvXcdeIWMyVyb!>EVlunEXV{C78b#i5tPK*R(X=8MheUyv}Yj<R2W?^+~baRwWb#*Q
+type: function

@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 4d03c7cd0e216b5a21d3dcff3f27b482ca1951ca LenaBar <barkovskaaelena3@gmail.com> 1616177148 +0300	branch: Created from HEAD
+4d03c7cd0e216b5a21d3dcff3f27b482ca1951ca a52aaea010fee92f767786fc51109d4c78efcedc LenaBar <barkovskaaelena3@gmail.com> 1616177248 +0300	merge feature/venv: Merge made by the 'recursive' strategy.
+a52aaea010fee92f767786fc51109d4c78efcedc 4d03c7cd0e216b5a21d3dcff3f27b482ca1951ca LenaBar <barkovskaaelena3@gmail.com> 1616177475 +0300	reset: moving to 4d03c7cd0e216b
+4d03c7cd0e216b5a21d3dcff3f27b482ca1951ca 277a598812b21ca90802d366078769efd30a104c LenaBar <barkovskaaelena3@gmail.com> 1616177612 +0300	commit: Add README
+277a598812b21ca90802d366078769efd30a104c 5077ce2e6f29ba864d546aac6f00bf9ac9be9185 LenaBar <barkovskaaelena3@gmail.com> 1616177777 +0300	merge feature/venv: Merge made by the 'recursive' strategy.
+5077ce2e6f29ba864d546aac6f00bf9ac9be9185 50b2c1a1b41df395ea06f493bd12827c65414127 LenaBar <barkovskaaelena3@gmail.com> 1616178429 +0300	merge master: Fast-forward
+50b2c1a1b41df395ea06f493bd12827c65414127 c14820e37aaa439fc028ec65041daadddfba684a LenaBar <barkovskaaelena3@gmail.com> 1616178653 +0300	merge feature/python: Merge made by the 'recursive' strategy.
+c14820e37aaa439fc028ec65041daadddfba684a 5077ce2e6f29ba864d546aac6f00bf9ac9be9185 LenaBar <barkovskaaelena3@gmail.com> 1616178789 +0300	reset: moving to 5077ce2e6f
+5077ce2e6f29ba864d546aac6f00bf9ac9be9185 5fcc7f3455d4e015d79df436ac8074a45baf2c08 LenaBar <barkovskaaelena3@gmail.com> 1616179424 +0300	merge feature/python: Merge made by the 'recursive' strategy.
+5fcc7f3455d4e015d79df436ac8074a45baf2c08 c11d6050746918bcd6d9cf269d07e8d4870df31a LenaBar <barkovskaaelena3@gmail.com> 1616179722 +0300	merge feature/docker: Merge made by the 'recursive' strategy.
+c11d6050746918bcd6d9cf269d07e8d4870df31a 5fcc7f3455d4e015d79df436ac8074a45baf2c08 LenaBar <barkovskaaelena3@gmail.com> 1616181227 +0300	reset: moving to 5fcc7f3455d
+5fcc7f3455d4e015d79df436ac8074a45baf2c08 6fdcd10b7773b3fb09546d2639744fcd84781430 LenaBar <barkovskaaelena3@gmail.com> 1616181373 +0300	merge feature/docker: Merge made by the 'recursive' strategy.

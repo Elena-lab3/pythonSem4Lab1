@@ -1,0 +1,98 @@
+0000000000000000000000000000000000000000 4d03c7cd0e216b5a21d3dcff3f27b482ca1951ca LenaBar <barkovskaaelena3@gmail.com> 1616177065 +0300	commit (initial): Add gitignore
+4d03c7cd0e216b5a21d3dcff3f27b482ca1951ca 4d03c7cd0e216b5a21d3dcff3f27b482ca1951ca LenaBar <barkovskaaelena3@gmail.com> 1616177148 +0300	checkout: moving from master to develop
+4d03c7cd0e216b5a21d3dcff3f27b482ca1951ca 4d03c7cd0e216b5a21d3dcff3f27b482ca1951ca LenaBar <barkovskaaelena3@gmail.com> 1616177161 +0300	checkout: moving from develop to feature/venv
+4d03c7cd0e216b5a21d3dcff3f27b482ca1951ca 27a30394468f7c61b1968bbe2e042ecd20a148c2 LenaBar <barkovskaaelena3@gmail.com> 1616177220 +0300	commit: Add venv
+27a30394468f7c61b1968bbe2e042ecd20a148c2 4d03c7cd0e216b5a21d3dcff3f27b482ca1951ca LenaBar <barkovskaaelena3@gmail.com> 1616177235 +0300	checkout: moving from feature/venv to develop
+4d03c7cd0e216b5a21d3dcff3f27b482ca1951ca a52aaea010fee92f767786fc51109d4c78efcedc LenaBar <barkovskaaelena3@gmail.com> 1616177248 +0300	merge feature/venv: Merge made by the 'recursive' strategy.
+a52aaea010fee92f767786fc51109d4c78efcedc 4d03c7cd0e216b5a21d3dcff3f27b482ca1951ca LenaBar <barkovskaaelena3@gmail.com> 1616177262 +0300	checkout: moving from develop to master
+4d03c7cd0e216b5a21d3dcff3f27b482ca1951ca 2ac81ca4d047e71430add547b333c344efbc1b31 LenaBar <barkovskaaelena3@gmail.com> 1616177315 +0300	merge develop: Merge made by the 'recursive' strategy.
+2ac81ca4d047e71430add547b333c344efbc1b31 4d03c7cd0e216b5a21d3dcff3f27b482ca1951ca LenaBar <barkovskaaelena3@gmail.com> 1616177411 +0300	reset: moving to 4d03c7cd0e216b
+4d03c7cd0e216b5a21d3dcff3f27b482ca1951ca a52aaea010fee92f767786fc51109d4c78efcedc LenaBar <barkovskaaelena3@gmail.com> 1616177450 +0300	checkout: moving from master to develop
+a52aaea010fee92f767786fc51109d4c78efcedc 4d03c7cd0e216b5a21d3dcff3f27b482ca1951ca LenaBar <barkovskaaelena3@gmail.com> 1616177475 +0300	reset: moving to 4d03c7cd0e216b
+4d03c7cd0e216b5a21d3dcff3f27b482ca1951ca 4d03c7cd0e216b5a21d3dcff3f27b482ca1951ca LenaBar <barkovskaaelena3@gmail.com> 1616177545 +0300	reset: moving to HEAD
+4d03c7cd0e216b5a21d3dcff3f27b482ca1951ca 277a598812b21ca90802d366078769efd30a104c LenaBar <barkovskaaelena3@gmail.com> 1616177612 +0300	commit: Add README
+277a598812b21ca90802d366078769efd30a104c 277a598812b21ca90802d366078769efd30a104c LenaBar <barkovskaaelena3@gmail.com> 1616177669 +0300	checkout: moving from develop to feature/venv
+277a598812b21ca90802d366078769efd30a104c 629d87b54b0e3c0a8332b6155ee02f4af5275a4d LenaBar <barkovskaaelena3@gmail.com> 1616177749 +0300	commit: Add venv
+629d87b54b0e3c0a8332b6155ee02f4af5275a4d 277a598812b21ca90802d366078769efd30a104c LenaBar <barkovskaaelena3@gmail.com> 1616177763 +0300	checkout: moving from feature/venv to develop
+277a598812b21ca90802d366078769efd30a104c 5077ce2e6f29ba864d546aac6f00bf9ac9be9185 LenaBar <barkovskaaelena3@gmail.com> 1616177777 +0300	merge feature/venv: Merge made by the 'recursive' strategy.
+5077ce2e6f29ba864d546aac6f00bf9ac9be9185 4d03c7cd0e216b5a21d3dcff3f27b482ca1951ca LenaBar <barkovskaaelena3@gmail.com> 1616177803 +0300	checkout: moving from develop to master
+4d03c7cd0e216b5a21d3dcff3f27b482ca1951ca 50b2c1a1b41df395ea06f493bd12827c65414127 LenaBar <barkovskaaelena3@gmail.com> 1616177819 +0300	merge develop: Merge made by the 'recursive' strategy.
+50b2c1a1b41df395ea06f493bd12827c65414127 5077ce2e6f29ba864d546aac6f00bf9ac9be9185 LenaBar <barkovskaaelena3@gmail.com> 1616178034 +0300	checkout: moving from master to develop
+5077ce2e6f29ba864d546aac6f00bf9ac9be9185 5077ce2e6f29ba864d546aac6f00bf9ac9be9185 LenaBar <barkovskaaelena3@gmail.com> 1616178066 +0300	checkout: moving from develop to feature/python
+5077ce2e6f29ba864d546aac6f00bf9ac9be9185 da79175b3308e2a3f2c5d9892d258a0ce06d17f8 LenaBar <barkovskaaelena3@gmail.com> 1616178104 +0300	commit: Add py file
+da79175b3308e2a3f2c5d9892d258a0ce06d17f8 5077ce2e6f29ba864d546aac6f00bf9ac9be9185 LenaBar <barkovskaaelena3@gmail.com> 1616178111 +0300	checkout: moving from feature/python to develop
+5077ce2e6f29ba864d546aac6f00bf9ac9be9185 da79175b3308e2a3f2c5d9892d258a0ce06d17f8 LenaBar <barkovskaaelena3@gmail.com> 1616178151 +0300	checkout: moving from develop to feature/python
+da79175b3308e2a3f2c5d9892d258a0ce06d17f8 5077ce2e6f29ba864d546aac6f00bf9ac9be9185 LenaBar <barkovskaaelena3@gmail.com> 1616178218 +0300	checkout: moving from feature/python to develop
+5077ce2e6f29ba864d546aac6f00bf9ac9be9185 50b2c1a1b41df395ea06f493bd12827c65414127 LenaBar <barkovskaaelena3@gmail.com> 1616178241 +0300	checkout: moving from develop to master
+50b2c1a1b41df395ea06f493bd12827c65414127 5077ce2e6f29ba864d546aac6f00bf9ac9be9185 LenaBar <barkovskaaelena3@gmail.com> 1616178303 +0300	checkout: moving from master to develop
+5077ce2e6f29ba864d546aac6f00bf9ac9be9185 5077ce2e6f29ba864d546aac6f00bf9ac9be9185 LenaBar <barkovskaaelena3@gmail.com> 1616178332 +0300	checkout: moving from develop to feature/python
+5077ce2e6f29ba864d546aac6f00bf9ac9be9185 50b2c1a1b41df395ea06f493bd12827c65414127 LenaBar <barkovskaaelena3@gmail.com> 1616178405 +0300	checkout: moving from feature/python to master
+50b2c1a1b41df395ea06f493bd12827c65414127 5077ce2e6f29ba864d546aac6f00bf9ac9be9185 LenaBar <barkovskaaelena3@gmail.com> 1616178420 +0300	checkout: moving from master to develop
+5077ce2e6f29ba864d546aac6f00bf9ac9be9185 50b2c1a1b41df395ea06f493bd12827c65414127 LenaBar <barkovskaaelena3@gmail.com> 1616178429 +0300	merge master: Fast-forward
+50b2c1a1b41df395ea06f493bd12827c65414127 50b2c1a1b41df395ea06f493bd12827c65414127 LenaBar <barkovskaaelena3@gmail.com> 1616178500 +0300	checkout: moving from develop to feature/python
+50b2c1a1b41df395ea06f493bd12827c65414127 33d5d2450fcf663cfa4a71525fa1e6ed265f399b LenaBar <barkovskaaelena3@gmail.com> 1616178636 +0300	commit: Add py file
+33d5d2450fcf663cfa4a71525fa1e6ed265f399b 50b2c1a1b41df395ea06f493bd12827c65414127 LenaBar <barkovskaaelena3@gmail.com> 1616178645 +0300	checkout: moving from feature/python to develop
+50b2c1a1b41df395ea06f493bd12827c65414127 c14820e37aaa439fc028ec65041daadddfba684a LenaBar <barkovskaaelena3@gmail.com> 1616178653 +0300	merge feature/python: Merge made by the 'recursive' strategy.
+c14820e37aaa439fc028ec65041daadddfba684a 50b2c1a1b41df395ea06f493bd12827c65414127 LenaBar <barkovskaaelena3@gmail.com> 1616178662 +0300	checkout: moving from develop to master
+50b2c1a1b41df395ea06f493bd12827c65414127 f6aa474420909887f70984a6564729d4582a77e8 LenaBar <barkovskaaelena3@gmail.com> 1616178671 +0300	merge develop: Merge made by the 'recursive' strategy.
+f6aa474420909887f70984a6564729d4582a77e8 50b2c1a1b41df395ea06f493bd12827c65414127 LenaBar <barkovskaaelena3@gmail.com> 1616178714 +0300	reset: moving to 50b2c1a1b41df395
+50b2c1a1b41df395ea06f493bd12827c65414127 c14820e37aaa439fc028ec65041daadddfba684a LenaBar <barkovskaaelena3@gmail.com> 1616178767 +0300	checkout: moving from master to develop
+c14820e37aaa439fc028ec65041daadddfba684a 5077ce2e6f29ba864d546aac6f00bf9ac9be9185 LenaBar <barkovskaaelena3@gmail.com> 1616178789 +0300	reset: moving to 5077ce2e6f
+5077ce2e6f29ba864d546aac6f00bf9ac9be9185 5077ce2e6f29ba864d546aac6f00bf9ac9be9185 LenaBar <barkovskaaelena3@gmail.com> 1616178861 +0300	checkout: moving from develop to feature/python
+5077ce2e6f29ba864d546aac6f00bf9ac9be9185 d5dbf31a988949fb2e9933a62add39de77b434e3 LenaBar <barkovskaaelena3@gmail.com> 1616178912 +0300	commit: Add py file
+d5dbf31a988949fb2e9933a62add39de77b434e3 5077ce2e6f29ba864d546aac6f00bf9ac9be9185 LenaBar <barkovskaaelena3@gmail.com> 1616178927 +0300	checkout: moving from feature/python to develop
+5077ce2e6f29ba864d546aac6f00bf9ac9be9185 50b2c1a1b41df395ea06f493bd12827c65414127 LenaBar <barkovskaaelena3@gmail.com> 1616179040 +0300	checkout: moving from develop to master
+50b2c1a1b41df395ea06f493bd12827c65414127 5077ce2e6f29ba864d546aac6f00bf9ac9be9185 LenaBar <barkovskaaelena3@gmail.com> 1616179062 +0300	checkout: moving from master to develop
+5077ce2e6f29ba864d546aac6f00bf9ac9be9185 50b2c1a1b41df395ea06f493bd12827c65414127 LenaBar <barkovskaaelena3@gmail.com> 1616179200 +0300	checkout: moving from develop to master
+50b2c1a1b41df395ea06f493bd12827c65414127 5077ce2e6f29ba864d546aac6f00bf9ac9be9185 LenaBar <barkovskaaelena3@gmail.com> 1616179240 +0300	checkout: moving from master to develop
+5077ce2e6f29ba864d546aac6f00bf9ac9be9185 5077ce2e6f29ba864d546aac6f00bf9ac9be9185 LenaBar <barkovskaaelena3@gmail.com> 1616179280 +0300	checkout: moving from develop to feature/python
+5077ce2e6f29ba864d546aac6f00bf9ac9be9185 4fd2b5314414698575409c9be046ad267ebb2c27 LenaBar <barkovskaaelena3@gmail.com> 1616179360 +0300	commit: Add py file
+4fd2b5314414698575409c9be046ad267ebb2c27 5077ce2e6f29ba864d546aac6f00bf9ac9be9185 LenaBar <barkovskaaelena3@gmail.com> 1616179412 +0300	checkout: moving from feature/python to develop
+5077ce2e6f29ba864d546aac6f00bf9ac9be9185 5fcc7f3455d4e015d79df436ac8074a45baf2c08 LenaBar <barkovskaaelena3@gmail.com> 1616179424 +0300	merge feature/python: Merge made by the 'recursive' strategy.
+5fcc7f3455d4e015d79df436ac8074a45baf2c08 50b2c1a1b41df395ea06f493bd12827c65414127 LenaBar <barkovskaaelena3@gmail.com> 1616179444 +0300	checkout: moving from develop to master
+50b2c1a1b41df395ea06f493bd12827c65414127 55ffadbe50dc35c0ca538bc8feb0bd49a0ba3fd7 LenaBar <barkovskaaelena3@gmail.com> 1616179457 +0300	merge develop: Merge made by the 'recursive' strategy.
+55ffadbe50dc35c0ca538bc8feb0bd49a0ba3fd7 5fcc7f3455d4e015d79df436ac8074a45baf2c08 LenaBar <barkovskaaelena3@gmail.com> 1616179569 +0300	checkout: moving from master to develop
+5fcc7f3455d4e015d79df436ac8074a45baf2c08 5fcc7f3455d4e015d79df436ac8074a45baf2c08 LenaBar <barkovskaaelena3@gmail.com> 1616179610 +0300	checkout: moving from develop to feature/docker
+5fcc7f3455d4e015d79df436ac8074a45baf2c08 9bd2ed09b76bc6352b676054019f34a2321169ac LenaBar <barkovskaaelena3@gmail.com> 1616179652 +0300	commit: Add docker
+9bd2ed09b76bc6352b676054019f34a2321169ac 5fcc7f3455d4e015d79df436ac8074a45baf2c08 LenaBar <barkovskaaelena3@gmail.com> 1616179701 +0300	checkout: moving from feature/docker to develop
+5fcc7f3455d4e015d79df436ac8074a45baf2c08 c11d6050746918bcd6d9cf269d07e8d4870df31a LenaBar <barkovskaaelena3@gmail.com> 1616179722 +0300	merge feature/docker: Merge made by the 'recursive' strategy.
+c11d6050746918bcd6d9cf269d07e8d4870df31a 55ffadbe50dc35c0ca538bc8feb0bd49a0ba3fd7 LenaBar <barkovskaaelena3@gmail.com> 1616179746 +0300	checkout: moving from develop to master
+55ffadbe50dc35c0ca538bc8feb0bd49a0ba3fd7 4743b05ebd63ef97d57862e1908c22e828328332 LenaBar <barkovskaaelena3@gmail.com> 1616179756 +0300	merge develop: Merge made by the 'recursive' strategy.
+4743b05ebd63ef97d57862e1908c22e828328332 55ffadbe50dc35c0ca538bc8feb0bd49a0ba3fd7 LenaBar <barkovskaaelena3@gmail.com> 1616181127 +0300	reset: moving to 55ffadbe50dc
+55ffadbe50dc35c0ca538bc8feb0bd49a0ba3fd7 c11d6050746918bcd6d9cf269d07e8d4870df31a LenaBar <barkovskaaelena3@gmail.com> 1616181206 +0300	checkout: moving from master to develop
+c11d6050746918bcd6d9cf269d07e8d4870df31a 5fcc7f3455d4e015d79df436ac8074a45baf2c08 LenaBar <barkovskaaelena3@gmail.com> 1616181227 +0300	reset: moving to 5fcc7f3455d
+5fcc7f3455d4e015d79df436ac8074a45baf2c08 5fcc7f3455d4e015d79df436ac8074a45baf2c08 LenaBar <barkovskaaelena3@gmail.com> 1616181292 +0300	checkout: moving from develop to feature/docker
+5fcc7f3455d4e015d79df436ac8074a45baf2c08 5880d4af1fefb508729d70a69082afc649c3a05a LenaBar <barkovskaaelena3@gmail.com> 1616181326 +0300	commit: Add docker
+5880d4af1fefb508729d70a69082afc649c3a05a 5fcc7f3455d4e015d79df436ac8074a45baf2c08 LenaBar <barkovskaaelena3@gmail.com> 1616181344 +0300	checkout: moving from feature/docker to develop
+5fcc7f3455d4e015d79df436ac8074a45baf2c08 6fdcd10b7773b3fb09546d2639744fcd84781430 LenaBar <barkovskaaelena3@gmail.com> 1616181373 +0300	merge feature/docker: Merge made by the 'recursive' strategy.
+6fdcd10b7773b3fb09546d2639744fcd84781430 55ffadbe50dc35c0ca538bc8feb0bd49a0ba3fd7 LenaBar <barkovskaaelena3@gmail.com> 1616181381 +0300	checkout: moving from develop to master
+55ffadbe50dc35c0ca538bc8feb0bd49a0ba3fd7 2d46b93561407600b16ac0da643e213dd9b9dc82 LenaBar <barkovskaaelena3@gmail.com> 1616181394 +0300	merge develop: Merge made by the 'recursive' strategy.
+2d46b93561407600b16ac0da643e213dd9b9dc82 17cc4480d748126cf90a44dfedd7023392d4216b LenaBar <barkovskaaelena3@gmail.com> 1621008291 +0300	commit: lab02
+17cc4480d748126cf90a44dfedd7023392d4216b 85896990bcf7f63f0f7e86634ba49def1cef5d10 LenaBar <barkovskaaelena3@gmail.com> 1621008426 +0300	commit: lab02
+85896990bcf7f63f0f7e86634ba49def1cef5d10 ece9ac0aa0c3e0b7cd289deef6fa3618e1498053 LenaBar <barkovskaaelena3@gmail.com> 1621011598 +0300	commit: main serializer + chek_funk
+ece9ac0aa0c3e0b7cd289deef6fa3618e1498053 4190638832826f2031fd2673c36d55dcfb97adf1 LenaBar <barkovskaaelena3@gmail.com> 1621013753 +0300	commit (amend): main serializer + chek_funk
+4190638832826f2031fd2673c36d55dcfb97adf1 cb2bc3e7a5ad5463d19738dbcffc77f7d95a1011 LenaBar <barkovskaaelena3@gmail.com> 1620495353 +0300	commit (amend): main serializer + chek_funk
+cb2bc3e7a5ad5463d19738dbcffc77f7d95a1011 dd962d2e2df94581927dcfc81f0a762310f93a44 LenaBar <barkovskaaelena3@gmail.com> 1621014311 +0300	pull: Merge made by the 'recursive' strategy.
+dd962d2e2df94581927dcfc81f0a762310f93a44 ece9ac0aa0c3e0b7cd289deef6fa3618e1498053 LenaBar <barkovskaaelena3@gmail.com> 1621014548 +0300	rebase -i (abort): updating HEAD
+ece9ac0aa0c3e0b7cd289deef6fa3618e1498053 ece9ac0aa0c3e0b7cd289deef6fa3618e1498053 LenaBar <barkovskaaelena3@gmail.com> 1621014548 +0300	rebase -i (abort): updating HEAD
+ece9ac0aa0c3e0b7cd289deef6fa3618e1498053 17cc4480d748126cf90a44dfedd7023392d4216b LenaBar <barkovskaaelena3@gmail.com> 1621014586 +0300	rebase -i (start): checkout 8589699^
+17cc4480d748126cf90a44dfedd7023392d4216b 85896990bcf7f63f0f7e86634ba49def1cef5d10 LenaBar <barkovskaaelena3@gmail.com> 1621014586 +0300	rebase -i: перемотка вперед
+85896990bcf7f63f0f7e86634ba49def1cef5d10 98ddcc1bd4cf587089a98fe6931b5d14a43e9d14 LenaBar <barkovskaaelena3@gmail.com> 1621014680 +0300	commit (amend): lab02
+98ddcc1bd4cf587089a98fe6931b5d14a43e9d14 5fd36b8f76e16a0258eeeda3e1f97e2419e3912c LenaBar <barkovskaaelena3@gmail.com> 1619292920 +0300	commit (amend): lab02
+5fd36b8f76e16a0258eeeda3e1f97e2419e3912c 7c3a9e9ba09c05d3db86449a1e4d6e80b52649b4 LenaBar <barkovskaaelena3@gmail.com> 1621014751 +0300	rebase -i (pick): main serializer + chek_funk
+7c3a9e9ba09c05d3db86449a1e4d6e80b52649b4 7c3a9e9ba09c05d3db86449a1e4d6e80b52649b4 LenaBar <barkovskaaelena3@gmail.com> 1621014751 +0300	rebase -i (finish): returning to refs/heads/master
+7c3a9e9ba09c05d3db86449a1e4d6e80b52649b4 26b064dfa33e936cd003fe79f08b958f433d0400 LenaBar <barkovskaaelena3@gmail.com> 1621014814 +0300	pull: Merge made by the 'recursive' strategy.
+26b064dfa33e936cd003fe79f08b958f433d0400 17cc4480d748126cf90a44dfedd7023392d4216b LenaBar <barkovskaaelena3@gmail.com> 1621015740 +0300	reset: moving to 17cc448
+17cc4480d748126cf90a44dfedd7023392d4216b 261f4c78aa331ea5d66475893e1cc4a63e2f90af LenaBar <barkovskaaelena3@gmail.com> 1621015978 +0300	commit (amend): lab02
+261f4c78aa331ea5d66475893e1cc4a63e2f90af 941b7e4c95556aad3dc4b7a543050da7d0b015c4 LenaBar <barkovskaaelena3@gmail.com> 1621016026 +0300	commit (amend): lab02
+941b7e4c95556aad3dc4b7a543050da7d0b015c4 65d2fbcdafba9925eb6ee26ea88cf43fdfe28a8c LenaBar <barkovskaaelena3@gmail.com> 1621016037 +0300	commit (amend): lab02
+65d2fbcdafba9925eb6ee26ea88cf43fdfe28a8c f5f2197d99f996a5619b868e509c4a927c5e11e7 LenaBar <barkovskaaelena3@gmail.com> 1619292915 +0300	commit (amend): lab02
+f5f2197d99f996a5619b868e509c4a927c5e11e7 f82439d32fcccda003f03c2b6670462e35c0a719 LenaBar <barkovskaaelena3@gmail.com> 1621016169 +0300	commit: main serializator + chek_func
+f82439d32fcccda003f03c2b6670462e35c0a719 7d15e84a20e9e07862e4c26228398e869a345184 LenaBar <barkovskaaelena3@gmail.com> 1621016546 +0300	commit (merge): -
+7d15e84a20e9e07862e4c26228398e869a345184 17cc4480d748126cf90a44dfedd7023392d4216b LenaBar <barkovskaaelena3@gmail.com> 1621016676 +0300	reset: moving to 17cc448
+17cc4480d748126cf90a44dfedd7023392d4216b 82700433094bdfe75a3ecd8e27d9e3a9217f69f0 LenaBar <barkovskaaelena3@gmail.com> 1621016972 +0300	commit (amend): lab02
+82700433094bdfe75a3ecd8e27d9e3a9217f69f0 f5f2197d99f996a5619b868e509c4a927c5e11e7 LenaBar <barkovskaaelena3@gmail.com> 1619292915 +0300	commit (amend): lab02
+f5f2197d99f996a5619b868e509c4a927c5e11e7 df4777ef8f97418b8c6d62aa445bc5b7fc3748c1 LenaBar <barkovskaaelena3@gmail.com> 1621017063 +0300	commit: main serializator + chek_func
+df4777ef8f97418b8c6d62aa445bc5b7fc3748c1 4cc7dccb407c8074d88fef44c5a49705851196d7 LenaBar <barkovskaaelena3@gmail.com> 1621017410 +0300	commit (amend): main serializator + chek_func
+4cc7dccb407c8074d88fef44c5a49705851196d7 d458946ed0027ec15bbc481b0f3a3e41bb5e9ac0 LenaBar <barkovskaaelena3@gmail.com> 1620496185 +0300	commit (amend): main serializator + chek_func
+                                                                                                                                                           
